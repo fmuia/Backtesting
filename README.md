@@ -2,6 +2,7 @@
 
 The structure of the project is the following:
 
+'''
 Barra/
 │
 ├── my_package/
@@ -29,3 +30,4 @@ Barra/
 ├── setup.py  # If you still want to make your code installable as a package
 │
 └── requirements.txt
+'''
